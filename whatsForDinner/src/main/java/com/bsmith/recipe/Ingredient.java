@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
-public class Ingredient extends UserInput {
+public class Ingredient {
 
 	String name;
 	Boolean available = true;

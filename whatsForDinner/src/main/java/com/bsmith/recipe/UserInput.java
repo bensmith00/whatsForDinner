@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashSet;
 
-public class UserInput extends Pantry {
+public class UserInput {
 
 	final Pantry pantry = new Pantry();
 
